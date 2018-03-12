@@ -1,0 +1,3 @@
+# Questions
+
+You said that one of the features of Github Classroom and also pull requests is that they allow for in-line comments "right there". I've been using these _in-line comments_ with my students in the Fall semester by grouping their commits for submission in Release tags and commenting in their commits in their own repos... I have yet to see how Classroom and PR can improve to this workflow. Is it any different?
